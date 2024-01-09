@@ -47,6 +47,6 @@ Let's say we have an unsorted list [64, 25, 12, 22, 11]. With each pass, Bubble 
 
 - **Limitations:**
 
-    _Inefficiency:_ Bubble Sort has a time complexity of O(n^2), making it less efficient than other sorting algorithms for large datasets.
-    _Lack of Adaptability:_ It doesn't adapt to the existing order in the list; it always compares adjacent elements.
-    Not Suitable for Large Datasets: Due to its quadratic time complexity, Bubble Sort may not be practical for sorting large datasets.
+   1. _Inefficiency:_ Bubble Sort has a time complexity of O(n^2), making it less efficient than other sorting algorithms for large datasets.
+   2. _Lack of Adaptability:_ It doesn't adapt to the existing order in the list; it always compares adjacent elements.
+   3. _Not Suitable for Large Datasets:_ Due to its quadratic time complexity, Bubble Sort may not be practical for sorting large datasets.
